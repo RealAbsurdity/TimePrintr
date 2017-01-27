@@ -1,6 +1,6 @@
 # TimePrintr
 A clock based on a Thermal Receipt Printer. Finally you will have a written record of time as it passes!
-This is a work in progress, the code here utilizes the arduino libraries, the Adafruit Thermal Printer Library and the Adafruit RTC library.
+This is a work in progress, the code here utilizes the arduino libraries, the Adafruit Thermal Printer Library and the Adafruit RTC library. The code is dirty, possibly incomplete and comes without warranty of any kind what-so-ever.
 
 https://github.com/adafruit/Adafruit-Thermal-Printer-Library
 
